@@ -11,5 +11,5 @@ if lowest_value == nil || value < lowest_value
   lowest_value = value
 end
   end
-  return
+  return lowest_key
 end
